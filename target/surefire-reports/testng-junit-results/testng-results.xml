@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="26" started-at="2023-04-30T12:29:24 BST" finished-at="2023-04-30T12:29:24 BST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="26" started-at="2023-04-30T12:29:24 BST" finished-at="2023-04-30T12:29:24 BST">
+      <class name="com.softwaretestingboard.magento.AppTest">
+        <test-method status="PASS" signature="testApp()[pri:0, instance:testApp(com.softwaretestingboard.magento.AppTest)]" name="testApp" duration-ms="2" started-at="2023-04-30T12:29:24 BST" finished-at="2023-04-30T12:29:24 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testApp -->
+      </class> <!-- com.softwaretestingboard.magento.AppTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

@@ -1,0 +1,6 @@
+com\softwaretestingboard\magento\browserfactory\ManageBrowser.class
+com\softwaretestingboard\magento\utilities\Utility.class
+com\softwaretestingboard\magento\utilities\Utility$1.class
+com\softwaretestingboard\magento\pages\HomePage.class
+com\softwaretestingboard\magento\App.class
+com\softwaretestingboard\magento\propertyreader\PropertyReader.class
